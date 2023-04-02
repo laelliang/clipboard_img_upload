@@ -1,0 +1,2 @@
+# clipboard_img_upload
+读取剪贴板图片然后通过sftp上传到指定主机的指定位置
